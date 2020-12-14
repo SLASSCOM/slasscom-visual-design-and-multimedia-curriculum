@@ -2,80 +2,93 @@
 
 # Topic: File formats and tools
 
-* Lesson 1: [UX Research Analysis](#lesson-1)
-* Lesson 2: [Different Analysis Methods](#lesson-2)
-* Assignment: [Team Assignment](#assignment)
+* Lesson 1: [Raster vs Vector File Image Formats](#lesson-1)
+* Lesson 2: [Common tools and tool source formats](#lesson-2)
 
 ---
 ---
 
-## Lesson 1: UX Research Analysis
+## Lesson 1: Raster vs Vector File Image Formats
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
+
 
 ### Self learning content
 
 Before Lecture:
 
-* [How To Conduct UX Research Analysis (UX Design Guide)](https://youtu.be/zGCRhd3r4fE)
+* [Vector vs Raster Graphics](https://www.youtube.com/watch?v=p2thSkOa_Xg)
 
-### Lecture/Lab description
+* [How Do Vector Graphics Work?](https://www.youtube.com/watch?v=W2xknX3k6FY)
 
-This lesson will discuss on UX Research Analysis by discussing below sub topics.
+* [Raster vs. Vector - Which to use for packaging?](https://www.slideshare.net/PakFactory/raster-vs-vector-which-to-use-for-packaging)
 
-* Why we need to analyze 
-* What we are trying to find
+* [Image File Formats for Design Explained](https://www.youtube.com/watch?v=eec2kteGkcM)
+
+  
+
+### Lecture
+
+This lesson will discuss
+
+* What raster and vector graphics are.
+* Associated file formats
+* When to use each format
 
 ---
 ---
-## Lesson 2: Different Analysis Methods
+## Lesson 2: Common tools and tool source formats
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>30 mins</dd>
 </dl>
+
 
 ### Self learning content 
 
 Before Lecture:
 
-* [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
-* [What is an Empathy Map?](https://youtu.be/QwF9a56WFWA)
-* [Customer Journey Map Workshop](https://youtu.be/X7iXcP-wIkk)
+* [What is the Best Software for Graphic Designers?](https://www.youtube.com/watch?v=9nUOX_oZnRg)
+* [All 50+ Adobe apps explained in 10 minutes](https://www.youtube.com/watch?v=7W0ISI3yqwo)
+* [Best Graphic Design Software for Designers](https://www.pixpa.com/blog/graphic-design-software)
+* [Image File Formats in Graphic Design and When to Use Them](https://designshifu.com/image-file-formats-in-graphic-design-and-when-to-use-them/)
 
-### Lecture/Lab description
+### Lecture
 
-This lesson will discuss on differnt methods that can be use for UX Research Analysis.
+This lesson will discuss .
 
-* Persona
-* Empathy Map
-* Customer Journey Map
+* Popular graphic design tools
+* Associated Source file formats
+
+User Interface tools will be discussed in a later module. [User Experience Design](./user-experience-design/user-experience-design-module.md)
+
 ---
 ---
 
-## Assignment: Team Assignment
+## Assignment:  File format comparison
 
 <dl>
 <dt>Assignment Duration</dt>
-<dd>xx mins</dd>
+<dd>15 mins</dd>
 </dl>
+
 
 ### Assignment description
 
-Below assignment will take place in the same teams formed in assignment under "User Research" topic.
+Identify and discuss a file format for each of the following scenarios.
 
-After the interviews and survey you have performed for your Food Delivery app, now your team is planning on preparing a Persona and User Journey Map for the user that you have selected in the previous lesson.
-
-1. Draft a persona for the selected user.
-2. Prepare a User Journey Map for the same user.
-3. By considering your research purpose, analyse what you have found in these.
+* Product Label 
+* Family photo (Framed)
+* Logo on website header
+* Animated photo
 
 ---
 
