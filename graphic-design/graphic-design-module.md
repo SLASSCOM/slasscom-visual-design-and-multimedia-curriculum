@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+Graphic design is a core skill for any visual designer. Learning the fundamentals of graphic design goes a long way in cement a good base for other skills such as UX design.
 
 ## Topics
 

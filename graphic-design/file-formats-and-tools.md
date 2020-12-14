@@ -1,6 +1,6 @@
-[Home](../index.md) > [Graphic Design](./graphic-design-module.md) > Analyze and Identify User Problems
+[Home](../index.md) > [Graphic Design](./graphic-design-module.md) > Introduction to file formats and tools
 
-# Topic: Analyze and Identify User Problems
+# Topic: Introduction to file formats and tools
 
 * Lesson 1: [UX Research Analysis](#lesson-1)
 * Lesson 2: [Different Analysis Methods](#lesson-2)
