@@ -20,8 +20,8 @@ Graphic design is a core skill for any visual designer. Learning the fundamental
 
 1. [Introduction to Graphic Design](./introduction-to-graphic-design.md)
 2. [File formats and tools](./file-formats-and-tools.md)
-3. [Brand Design ](./brand-design.md)
-4. [Digital Design ](./digital-design.md)
+3. [Brand Design](./brand-design.md)
+4. [Digital Design](./digital-design.md)
 5. [Print Design](./print-design.md)
 6. [Designing for Social Media](./designing-for-social-media.md)
 
