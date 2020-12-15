@@ -1,6 +1,6 @@
-[Home](../index.md) > Basics of 3D Design
+[Home](../index.md) > Basic 3D Design
 
-# Module: Basics of 3D Design
+# Module: Basic 3D Design
 
 > Short module description (~10 words)
 
@@ -17,7 +17,14 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Topics
 
-1. [Introduction](./introduction-.md)
+1. [Introduction to 3D Graphics](./introduction-to-3D-Graphics.md)
+2. [Introduction to Maya](./introduction-to-Maya.md)
+3. [Basic Modeling](./basic-modeling.md)
+4. [Working With UVs](./working-with-UVs.md)
+5. [Texturing](./texturing.md)
+6. [Basic Animation](./basic-animation.md)
+7. [Lighting and Rendering](./lighting-and-rendering.md)
+8. [Course Wind-up](./course-windup.md)
 
 ## Learning Outcomes
 
