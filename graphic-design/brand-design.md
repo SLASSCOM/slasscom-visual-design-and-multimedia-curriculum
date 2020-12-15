@@ -2,80 +2,67 @@
 
 # Topic: Brand Design
 
-* Lesson 1: [UX Research Analysis](#lesson-1)
-* Lesson 2: [Different Analysis Methods](#lesson-2)
+* Lesson 1: [What is Branding?](#lesson-1)
+* Lesson 2: [Designing a Brand](#lesson-2)
 * Assignment: [Team Assignment](#assignment)
 
 ---
 ---
 
-## Lesson 1: UX Research Analysis
+## Lesson 1: What is Branding?
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
+
 
 ### Self learning content
 
 Before Lecture:
 
-* [How To Conduct UX Research Analysis (UX Design Guide)](https://youtu.be/zGCRhd3r4fE)
+* [Beginning Graphic Design: Branding & Identity](https://youtu.be/l-S2Y3SF3mM)
+* [What Is Branding In Graphic Design?](https://youtu.be/VhvPdL0rAvY)
+* [Beginning Graphic Design: Branding & Identity](https://youtu.be/l-S2Y3SF3mM)
 
 ### Lecture/Lab description
 
-This lesson will discuss on UX Research Analysis by discussing below sub topics.
+This lesson will introduce the topic of branding and its importance, the lesson will cover
 
-* Why we need to analyze 
-* What we are trying to find
+* What branding is
+* The journey to creating a brand
 
 ---
 ---
-## Lesson 2: Different Analysis Methods
+## Lesson 2: Designing a Brand
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
+
 
 ### Self learning content 
 
 Before Lecture:
 
-* [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
-* [What is an Empathy Map?](https://youtu.be/QwF9a56WFWA)
-* [Customer Journey Map Workshop](https://youtu.be/X7iXcP-wIkk)
+* [How To Design a Brand Identity](https://youtu.be/03V5D2hS-h8)
+* [Designing a Complete Brand Identity with Sydney Michuda](https://www.youtube.com/watch?v=a4em99bfceM)
+* [How to create a brand style guide](https://99designs.com/blog/logo-branding/how-to-create-a-brand-style-guide/)
+* [How to Start Your Own Brand From Scratch in 7 Steps](https://www.shopify.com/blog/how-to-build-a-brand)
+* [How to Create a Powerful Brand Identity (A Step-by-Step Guide)](https://www.columnfivemedia.com/how-to-create-a-brand-identity)
 
 ### Lecture/Lab description
 
-This lesson will discuss on differnt methods that can be use for UX Research Analysis.
+This lesson will discuss the process of creating a brand
 
-* Persona
-* Empathy Map
-* Customer Journey Map
+* Steps in creating brand designs
+* Aspects to consider when creating brands
+* Step by step process to creating brands
 ---
----
-
-## Assignment: Team Assignment
-
-<dl>
-<dt>Assignment Duration</dt>
-<dd>xx mins</dd>
-</dl>
-
-### Assignment description
-
-Below assignment will take place in the same teams formed in assignment under "User Research" topic.
-
-After the interviews and survey you have performed for your Food Delivery app, now your team is planning on preparing a Persona and User Journey Map for the user that you have selected in the previous lesson.
-
-1. Draft a persona for the selected user.
-2. Prepare a User Journey Map for the same user.
-3. By considering your research purpose, analyse what you have found in these.
-
 ---
 

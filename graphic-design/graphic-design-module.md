@@ -25,5 +25,3 @@ Graphic design is a core skill for any visual designer. Learning the fundamental
 5. [Print Design](./print-design.md)
 6. [Designing for Social Media](./designing-for-social-media.md)
 
-## 
-

@@ -25,6 +25,8 @@ Before Lecture:
 * [What is Graphic Design?](https://www.youtube.com/watch?v=dFSia1LZI4Y)
 * [Graphic Design 101](https://www.slideshare.net/sbernalmarcial/graphic-design-101)
 * [An Introduction To Graphic Design](https://www.slideshare.net/AfshanKirmani/an-introduction-to-graphic-design-presentation)
+* [The Universal Arts of Graphic Design](https://youtu.be/sTi5SNgxE3U)
+* [Beginning Graphic Design: Fundamentals](https://youtu.be/YqQx75OPRa0)  
 
 ### Lecture/Lab description
 
