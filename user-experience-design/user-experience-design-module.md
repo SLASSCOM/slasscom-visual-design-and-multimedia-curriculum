@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+User Experience (UX) Design is becoming a game changer for businesses nowadays and UX Designer is an important role that is being hunted by everycompany. Not only that, this career path has a huge potential for continuous growthin future. Therefore, in this module we will discuss what is UX, why it is importantand the end-to-end process of UX design.
 
 ## Topics
 
@@ -27,7 +27,8 @@ Module description and why the content is important in the industry (~ 50 words)
 
 ## Learning Outcomes
 
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
+- Introduce individual to concept of UX and UX design process
+- Get an understanding about each element in UX design process
+- Get the opportunity to practically apply the theories which discuss in this module
+- Provide guidance the continue learning and growing in UX design career path
+
