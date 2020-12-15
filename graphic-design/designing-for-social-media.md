@@ -2,61 +2,36 @@
 
 # Topic: Designing for Social Media
 
-* Lesson 1: [UX Research Analysis](#lesson-1)
+* Lesson 1: [General guidelines for different platforms](#lesson-1)
 * Lesson 2: [Different Analysis Methods](#lesson-2)
 * Assignment: [Team Assignment](#assignment)
 
 ---
 ---
 
-## Lesson 1: UX Research Analysis
+## Lesson 1: General guidelines for different platforms
 
 <dl>
 <dt>Self learning Duration</dt>
-<dd>xx mins</dd>
+<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
+
 
 ### Self learning content
 
 Before Lecture:
 
-* [How To Conduct UX Research Analysis (UX Design Guide)](https://youtu.be/zGCRhd3r4fE)
+* [Always Up-to-Date Guide to Social Media Image Sizes](https://sproutsocial.com/insights/social-media-image-sizes-guide/)
+* [Social Media Image Sizes Cheat Sheet)](https://makeawebsitehub.com/social-media-image-sizes-cheat-sheet/)
+* [The Ultimate Guide to Social Media Image Sizes in 2020)](https://www.socialmediatoday.com/news/the-ultimate-guide-to-social-media-image-sizes-in-2020-infographic/583188/)
+* [The 29 Most Common Social Media Rules)](https://buffer.com/library/social-media-rules-etiquette/)
 
-### Lecture/Lab description
+### Lecture description
 
-This lesson will discuss on UX Research Analysis by discussing below sub topics.
+This lesson will demonstrate the various adaptions for graphic assets for social media
 
-* Why we need to analyze 
-* What we are trying to find
-
----
----
-## Lesson 2: Different Analysis Methods
-
-<dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
-<dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
-</dl>
-
-### Self learning content 
-
-Before Lecture:
-
-* [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
-* [What is an Empathy Map?](https://youtu.be/QwF9a56WFWA)
-* [Customer Journey Map Workshop](https://youtu.be/X7iXcP-wIkk)
-
-### Lecture/Lab description
-
-This lesson will discuss on differnt methods that can be use for UX Research Analysis.
-
-* Persona
-* Empathy Map
-* Customer Journey Map
 ---
 ---
 
@@ -64,18 +39,18 @@ This lesson will discuss on differnt methods that can be use for UX Research Ana
 
 <dl>
 <dt>Assignment Duration</dt>
-<dd>xx mins</dd>
+<dd>120 mins</dd>
 </dl>
+
 
 ### Assignment description
 
-Below assignment will take place in the same teams formed in assignment under "User Research" topic.
+Form a team and design a brand for any service you can think of and create the following assets
 
-After the interviews and survey you have performed for your Food Delivery app, now your team is planning on preparing a Persona and User Journey Map for the user that you have selected in the previous lesson.
-
-1. Draft a persona for the selected user.
-2. Prepare a User Journey Map for the same user.
-3. By considering your research purpose, analyse what you have found in these.
+1. Facebook cover page, logo and one sample image post
+2. Instagram profile pic/logo and 2 sample story posts and 1 sample feed post
+3. Twitter cover page, logo and one sample image post
+4. YouTube cover page, logo and one thumbnail for a video
 
 ---
 
