@@ -8,7 +8,7 @@ Diploma level curriculum as a guidance to educational institutes. Visit [Curricu
 1. [Foundational Principles of Visual Design](./foundational-principles-of-visual-design/foundational-principles-of-visual-design-module.md)
 2. [Graphic Design](./graphic-design/graphic-design-module.md)
 3. [Basic Video/Audio Editing](./basic-video-audio-editing/basic-video-audio-editing-module.md)
-4. [Basic 3D Design](./basic-3D-design/basic-3d-design-module.md)
+4. [Basic 3D Design](./basic-3D-design/basic-3D-design-module.md)
 5. [User Experience Design](./user-experience-design/user-experience-design-module.md)
 
 
