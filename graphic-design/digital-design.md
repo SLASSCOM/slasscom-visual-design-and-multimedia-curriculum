@@ -29,7 +29,6 @@ Before Lecture:
 This lesson will discuss on UX Research Analysis by discussing below sub topics.
 
 * Why we need to analyze 
-* What we are trying to find
 
 ---
 ---
