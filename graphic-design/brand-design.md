@@ -54,7 +54,9 @@ Before Lecture:
 * [Designing a Complete Brand Identity with Sydney Michuda](https://www.youtube.com/watch?v=a4em99bfceM)
 * [How to create a brand style guide](https://99designs.com/blog/logo-branding/how-to-create-a-brand-style-guide/)
 * [How to Start Your Own Brand From Scratch in 7 Steps](https://www.shopify.com/blog/how-to-build-a-brand)
+* [7 steps to creating a brand identity](https://youtu.be/n8KoAHCwnMQ)
 * [How to Create a Powerful Brand Identity (A Step-by-Step Guide)](https://www.columnfivemedia.com/how-to-create-a-brand-identity)
+* [9 Brand Design Elements Your Brand MUST Have for Designers and Entrepreneurs)](https://youtu.be/jB57Pc1W6Ys)
 
 ### Lecture/Lab description
 
