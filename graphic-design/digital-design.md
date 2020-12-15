@@ -2,14 +2,18 @@
 
 # Topic: Digital Design 
 
-* Lesson 1: [UX Research Analysis](#lesson-1)
-* Lesson 2: [Different Analysis Methods](#lesson-2)
-* Assignment: [Team Assignment](#assignment)
+* Lesson 1: [Photoshop Training](#lesson-1)
+* Assignment 1: [Photoshop Assignment](#assignment)
+* Lesson 2: [Illustrator Training
+* Assignment 2: [Illustrator Assignment](#assignment)
+* Lesson 3: [Indesign Training](#lesson-3)
+* Assignment 3: [Indesign Assignment](#assignment)
+* Assignment 4: [Team Assignment](#assignment)
 
 ---
 ---
 
-## Lesson 1: UX Research Analysis
+## Lesson 1: Photoshop Training
 
 <dl>
 <dt>Self learning Duration</dt>
@@ -32,39 +36,13 @@ This lesson will discuss on UX Research Analysis by discussing below sub topics.
 
 ---
 ---
-## Lesson 2: Different Analysis Methods
-
-<dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
-<dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
-</dl>
-
-### Self learning content 
-
-Before Lecture:
-
-* [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
-* [What is an Empathy Map?](https://youtu.be/QwF9a56WFWA)
-* [Customer Journey Map Workshop](https://youtu.be/X7iXcP-wIkk)
-
-### Lecture/Lab description
-
-This lesson will discuss on differnt methods that can be use for UX Research Analysis.
-
-* Persona
-* Empathy Map
-* Customer Journey Map
----
----
-
-## Assignment: Team Assignment
+## Assignment: Photoshop Assignment
 
 <dl>
 <dt>Assignment Duration</dt>
 <dd>xx mins</dd>
 </dl>
+
 
 ### Assignment description
 
@@ -76,5 +54,6 @@ After the interviews and survey you have performed for your Food Delivery app, n
 2. Prepare a User Journey Map for the same user.
 3. By considering your research purpose, analyse what you have found in these.
 
+---
 ---
 
