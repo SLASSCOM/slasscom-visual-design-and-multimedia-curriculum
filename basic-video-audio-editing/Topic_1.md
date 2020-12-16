@@ -22,7 +22,7 @@
 
 Before Lecture:
 
-* [link description](./#)
+* [https://www.youtube.com/watch?v=OdZPuE0mHs8](./#)
 * [link description](./#)
 
 After Lecture:
