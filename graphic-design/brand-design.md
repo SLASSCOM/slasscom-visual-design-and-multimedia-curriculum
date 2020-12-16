@@ -12,16 +12,13 @@
 ## Lesson 1: What is Branding?
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
 <dd>60 mins</dd>
 </dl>
 
+### Learning content 
 
-### Self learning content
-
-Before Lecture:
+Lecture:
 
 * [Beginning Graphic Design: Branding & Identity](https://youtu.be/l-S2Y3SF3mM)
 * [What Is Branding In Graphic Design?](https://youtu.be/VhvPdL0rAvY)
@@ -39,16 +36,13 @@ This lesson will introduce the topic of branding and its importance, the lesson 
 ## Lesson 2: Designing a Brand
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
 <dd>60 mins</dd>
 </dl>
 
+### Learning content 
 
-### Self learning content 
-
-Before Lecture:
+Lecture:
 
 * [How To Design a Brand Identity](https://youtu.be/03V5D2hS-h8)
 * [Designing a Complete Brand Identity with Sydney Michuda](https://www.youtube.com/watch?v=a4em99bfceM)
@@ -66,5 +60,23 @@ This lesson will discuss the process of creating a brand
 * Aspects to consider when creating brands
 * Step by step process to creating brands
 ---
+---
+
+## Assignment: Team Assignment
+
+<dl>
+<dt>Assignment Duration</dt>
+<dd>90 mins</dd>
+</dl>
+### Assignment description
+
+Select 10 brands as a team and carry out the following tasks:
+
+1. Discuss the use of color in its branding
+2. Discuss the use of typography
+3. Look at different channels (social media, tv, audio, etc) and analyze how they maintain their brand identify
+
+---
+
 ---
 

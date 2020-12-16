@@ -3,7 +3,6 @@
 # Topic: Designing for Social Media
 
 * Lesson 1: [General guidelines for different platforms](#lesson-1)
-* Lesson 2: [Different Analysis Methods](#lesson-2)
 * Assignment: [Team Assignment](#assignment)
 
 ---
@@ -12,16 +11,13 @@
 ## Lesson 1: General guidelines for different platforms
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
 <dd>60 mins</dd>
 </dl>
 
+### Learning content
 
-### Self learning content
-
-Before Lecture:
+Lecture:
 
 * [Always Up-to-Date Guide to Social Media Image Sizes](https://sproutsocial.com/insights/social-media-image-sizes-guide/)
 * [Social Media Image Sizes Cheat Sheet)](https://makeawebsitehub.com/social-media-image-sizes-cheat-sheet/)
@@ -41,11 +37,9 @@ This lesson will demonstrate the various adaptions for graphic assets for social
 <dt>Assignment Duration</dt>
 <dd>120 mins</dd>
 </dl>
-
-
 ### Assignment description
 
-Form a team and design a brand for any service you can think of and create the following assets
+Form a team and design a brand for any service you can think of and create the following assets.
 
 1. Facebook cover page, logo and one sample image post
 2. Instagram profile pic/logo and 2 sample story posts and 1 sample feed post

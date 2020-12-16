@@ -11,16 +11,14 @@
 ## Lesson 1: What is Graphic Design
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 
-### Self learning content
+### Learning content 
 
-Before Lecture:
+Lecture:
 
 * [What is Graphic Design?](https://www.youtube.com/watch?v=dFSia1LZI4Y)
 * [Graphic Design 101](https://www.slideshare.net/sbernalmarcial/graphic-design-101)
@@ -35,25 +33,24 @@ This follows the concepts learnt in the previous module [Foundational Principles
 
 ---
 ---
-## Lesson 2: Different Analysis Methods
+## Lesson 2:  Importance of Graphic Design 
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
 
-### Self learning content 
 
-Before Lecture:
+### Learning content 
+
+Lecture:
 
 * [Why Graphic Design is Important for Any Business](https://designpickle.com/why-graphic-design-is-important-for-any-business/)
 * [Why is Graphic Design Important?](https://www.youtube.com/watch?v=A_XeC-bop-Y&t=7s)
 
 ### Lecture/Lab description
 
-This lesson will touch on a few areas on the importance of graphic design.
+This lesson will touch on the importance of graphic design.
 
 ---
 

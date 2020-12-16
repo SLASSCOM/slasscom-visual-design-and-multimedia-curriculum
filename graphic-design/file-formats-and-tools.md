@@ -4,6 +4,7 @@
 
 * Lesson 1: [Raster vs Vector File Image Formats](#lesson-1)
 * Lesson 2: [Common tools and tool source formats](#lesson-2)
+* Assignment: [Team Assignment](#assignment)
 
 ---
 ---
@@ -11,16 +12,13 @@
 ## Lesson 1: Raster vs Vector File Image Formats
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>60 mins</dd>
 <dt>Lecture/Lab Duration</dt>
 <dd>60 mins</dd>
 </dl>
 
+### Learning content 
 
-### Self learning content
-
-Before Lecture:
+Lecture:
 
 * [Vector vs Raster Graphics](https://www.youtube.com/watch?v=p2thSkOa_Xg)
 
@@ -45,16 +43,13 @@ This lesson will discuss
 ## Lesson 2: Common tools and tool source formats
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>30 mins</dd>
 <dt>Lecture/Lab Duration</dt>
 <dd>30 mins</dd>
 </dl>
 
+### Learning content 
 
-### Self learning content 
-
-Before Lecture:
+Lecture:
 
 * [What is the Best Software for Graphic Designers?](https://www.youtube.com/watch?v=9nUOX_oZnRg)
 * [All 50+ Adobe apps explained in 10 minutes](https://www.youtube.com/watch?v=7W0ISI3yqwo)
@@ -73,14 +68,12 @@ User Interface tools will be discussed in a later module. [User Experience Desig
 ---
 ---
 
-## Assignment:  File format comparison
+## Team Assignment:  File format comparison
 
 <dl>
 <dt>Assignment Duration</dt>
 <dd>15 mins</dd>
 </dl>
-
-
 ### Assignment description
 
 Identify and discuss a file format for each of the following scenarios.

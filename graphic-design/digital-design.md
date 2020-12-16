@@ -8,7 +8,6 @@
 * Assignment 2: [Illustrator Assignment](#assignment)
 * Lesson 3: [Indesign Training](#lesson-3)
 * Assignment 3: [Indesign Assignment](#assignment)
-* Assignment 4: [Team Assignment](#assignment)
 
 ---
 ---
@@ -16,15 +15,14 @@
 ## Lesson 1: Photoshop Training
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>180 mins</dd>
 </dl>
 
-### Self learning content
 
-Before Lecture:
+### Learning content
+
+Lecture:
 
 * [The Complete beginners guide to Adobe Photoshop | Course overview & breakdown](https://youtu.be/sF_jSrBhdlg)
 * [Interface Introduction to Adobe Photoshop Ep1](https://youtu.be/N24fIAwkchk)
@@ -71,13 +69,17 @@ This lesson will cover a complete beginners guide to learning photoshop
 
 <dl>
 <dt>Assignment Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
+
 ### Assignment description
 
-Assignment text
+Use the knowledge in this lesson to create the following.
 
-1. Assignment todo
+1. Typographic design of your own name.
+   1. Create two versions with one with a transparent background and other with any creative color fill
+   2. Try to use layer masks
+2. Take any photo of a subject (could be you or anyone else) and modify the background of the subject to be in a different environment
 
 ---
 ---
@@ -85,16 +87,13 @@ Assignment text
 ## Lesson 2: Illustrator Training
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>180 mins</dd>
 </dl>
 
+### Learning content
 
-### Self learning content
-
-Before Lecture:
+Lecture
 
 * [The Complete Beginners Guide To Adobe Illustrator | Tutorial Overview & Breakdown](https://www.youtube.com/watch?v=IBouhf4seWQ&list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP&index=1)
 * [Interface Introduction to Adobe Illustrator Ep1/19](https://www.youtube.com/watch?v=QKWnkIPur2Q&list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP&index=2)
@@ -129,20 +128,15 @@ This lesson will cover a complete beginners guide to learning illustrator
 
 <dl>
 <dt>Assignment Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Assignment description
 
-1. Assignment text
+Use the knowledge in this lesson to create the following.
 
-   1. Assignment todo
-
----
-
----
-
-1. 
+1. Vector typographic design of your own name.
+2. A book cover
 
 ---
 
@@ -151,16 +145,13 @@ This lesson will cover a complete beginners guide to learning illustrator
 ## Lesson 2: InDesign Training
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
-<dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dt>Assignment Duration</dt>
+<dd>60 mins</dd>
 </dl>
 
+### Learning content
 
-### Self learning content
-
-Before Lecture:
+Lecture:
 
 * [Adobe InDesign For Beginners - Tutorial Course Overview & Breakdown](https://www.youtube.com/watch?v=iHDy_nEvgd4&list=PLYfCBK8IplO7YoUHtYKxavLHO-31C-Vky&index=1)
 * [Preparation For Adobe InDesign Projects - Ep1/13](https://www.youtube.com/watch?v=qTli6F69zdY&list=PLYfCBK8IplO7YoUHtYKxavLHO-31C-Vky&index=2)
@@ -179,7 +170,7 @@ Before Lecture:
 
 ### Lecture/Lab description
 
-This lesson will cover a complete beginners guide to learning indesign
+This lesson will cover a complete beginners guide to learning InDesign
 
 ---
 
@@ -189,14 +180,16 @@ This lesson will cover a complete beginners guide to learning indesign
 
 <dl>
 <dt>Assignment Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Assignment description
 
-1. Assignment text
+Use the knowledge in this lesson to create the following.
 
-   1. Assignment todo
+1. Create a small booklet (10 pages) with any text from other books or filler "Lorem impsum" text
+   1. Use the book cover created in illustrator assignment
+   2. Add your typographic logo on the back cover
 
 ---
 

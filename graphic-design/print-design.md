@@ -8,18 +8,15 @@
 ---
 ---
 
-## Lesson 1: UX Research Analysis
+## Lesson 1: How to design for print
 
 <dl>
-<dt>Self learning Duration</dt>
-<dd>xx mins</dd>
 <dt>Lecture/Lab Duration</dt>
-<dd>xx mins</dd>
+<dd>180 mins</dd>
 </dl>
+### Learning content
 
-### Self learning content
-
-Before Lecture:
+Lecture/Lab:
 
 * [Multimedia design course for print | Course overview & breakdown](https://www.youtube.com/watch?v=nyM4MRM5HrQ&list=PLYfCBK8IplO4609ocIqD7iRfPOKrDcJ-z&index=1)
 * [Design preparation for print Ep1/15](https://www.youtube.com/watch?v=BLSZVv8GHgE&list=PLYfCBK8IplO4609ocIqD7iRfPOKrDcJ-z&index=2&t=8s)
@@ -45,18 +42,20 @@ This lesson will discuss how to adapt and design for print using the tools we di
 ---
 ---
 
-## Assignment: Team Assignment
+## Assignment: Assignment
 
 <dl>
 <dt>Assignment Duration</dt>
-<dd>xx mins</dd>
+<dd>60 mins</dd>
 </dl>
-
 ### Assignment description
 
-Assignment description
+Convert assets created in the Photoshop and illustrator assignments in [Digital Design](./digital-design.md) topic. Use those assets to create a design for:
 
-1. Assignment point
+1. T-shirt
+2. Letterhead
+3. Laptop Sticker
+4. Billboard
 
 ---
 
