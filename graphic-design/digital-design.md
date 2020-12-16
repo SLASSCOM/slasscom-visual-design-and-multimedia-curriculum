@@ -119,7 +119,7 @@ Before Lecture:
 
 ### Lecture/Lab description
 
-This lesson will cover a complete beginners guide to learning photoshop
+This lesson will cover a complete beginners guide to learning illustrator
 
 ---
 
@@ -179,7 +179,7 @@ Before Lecture:
 
 ### Lecture/Lab description
 
-This lesson will cover a complete beginners guide to learning photoshop
+This lesson will cover a complete beginners guide to learning indesign
 
 ---
 
