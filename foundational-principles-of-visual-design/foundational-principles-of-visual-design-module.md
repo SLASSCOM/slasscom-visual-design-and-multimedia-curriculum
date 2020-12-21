@@ -2,28 +2,26 @@
 
 # Module: Foundational Principles of Visual Design
 
-> Short module description (~10 words)
-
 <dl>
 <dt>Total Duration</dt>
-<dd>~ xx hours</dd>
+<dd>8 hours</dd>
 <dt>Number of Topics</dt>
-<dd>x</dd>
+<dd>4</dd>
 </dl>
+
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+This module will discuss the basics elements common to any design, and will lay the foundation for the rest of the modules
 
 ## Topics
 
-1. [Introduction](./introduction-.md)
+1. [Art and Design Introduction](./art-and-design-introduction.md)
+
+2. [10 Rules of design](./ten-rules-of-design.md)
+
+3. [Concept generation](./concept-generation.md)
+
+4. [Building Blocks of design](./building-blocks-of-design.md)
 
    
-
-## Learning Outcomes
-
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
