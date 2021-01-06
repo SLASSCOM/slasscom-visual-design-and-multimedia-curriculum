@@ -25,17 +25,14 @@ Lecture:
 * [What is Video Production](https://ptgmedia.pearsoncmg.com/images/9780321990198/samplepages/9780321990198.pdf)
 * [Guide to Video Production ](https://extension.colostate.edu/docs/comm/video-handbook2.pdf)
 
-After Lecture:
-
-* [link description](./#)
 
 ### Lecture/Lab description
 
 This lesson will give a basic knowledge of Production and Processors.
 
-Pre Production
-Production
-Post Production
+Pre Production,
+Production,
+Post Production.
 
 ---
 ## Lesson 2: History of Video Production 
@@ -54,9 +51,6 @@ Lecture:
 * [History Of Editing ](https://www.youtube.com/watch?v=Wa_VZISu6fc)
 * [History Of Film Editing ](https://www.youtube.com/watch?v=Xr-N3fSo62w)
 
-After Lecture:
-
-* [link description](./#)
 
 ### Lecture/Lab description
 
