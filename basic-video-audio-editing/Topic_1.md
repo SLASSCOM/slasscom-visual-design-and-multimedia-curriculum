@@ -18,9 +18,9 @@
 <dd>xx mins</dd>
 </dl>
 
-### Self learning content
+### learning content
 
-Before Lecture:
+Lecture:
 
 * [Basic_learning](/https://www.youtube.com/watch?v=OdZPuE0mHs8#)
 * [link description](./#)
