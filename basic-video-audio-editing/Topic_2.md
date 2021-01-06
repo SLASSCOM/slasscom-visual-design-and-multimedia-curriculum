@@ -18,11 +18,11 @@
 <dd>xx mins</dd>
 </dl>
 
-### Self learning content
+### learning content
 
-Before Lecture:
+Lecture:
 
-* [link description](./#)
+* [Editing Basics 101](https://www.youtube.com/watch?v=t7OHvkQtaME)
 * [link description](./#)
 
 After Lecture:
