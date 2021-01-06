@@ -22,7 +22,7 @@
 
 Lecture:
 
-* [Basic_learning](/https://www.youtube.com/watch?v=OdZPuE0mHs8#)
+* [What is Video Production](https://ptgmedia.pearsoncmg.com/images/9780321990198/samplepages/9780321990198.pdf)
 * [link description](./#)
 
 After Lecture:
