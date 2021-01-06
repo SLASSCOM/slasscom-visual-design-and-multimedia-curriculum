@@ -33,6 +33,10 @@ After Lecture:
 
 This lesson will give a basic knowledge of Production and Processors.
 
+Pre Production
+Production
+Post Production
+
 ---
 ## Lesson 2: History of Video Production 
 
@@ -43,12 +47,12 @@ This lesson will give a basic knowledge of Production and Processors.
 <dd>xx mins</dd>
 </dl>
 
-### Self learning content
+### learning content
 
-Before Lecture:
+Lecture:
 
-* [link description](./#)
-* [link description](./#)
+* [History Of Editing ](https://www.youtube.com/watch?v=Wa_VZISu6fc)
+* [History Of Film Editing ](https://www.youtube.com/watch?v=Xr-N3fSo62w)
 
 After Lecture:
 
