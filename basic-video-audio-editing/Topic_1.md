@@ -23,7 +23,7 @@
 Lecture:
 
 * [What is Video Production](https://ptgmedia.pearsoncmg.com/images/9780321990198/samplepages/9780321990198.pdf)
-* [link description](./#)
+* [Guide to Video Production ](https://extension.colostate.edu/docs/comm/video-handbook2.pdf)
 
 After Lecture:
 
