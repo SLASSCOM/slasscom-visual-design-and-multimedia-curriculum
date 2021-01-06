@@ -23,19 +23,14 @@
 Lecture:
 
 * [Editing Basics 101](https://www.youtube.com/watch?v=t7OHvkQtaME)
-* [link description](./#)
 
 After Lecture:
 
 * [link description](./#)
 
-### Lecture/Lab description
+### Lecture description
 
-Description to lecture content (50 - 100 words)
-
-* teaching point 1
-* teaching point 2
-* teaching point 3
+This lesson will give a knowledge of Video Editing and Importance of editing 
 
 ---
 ## Lesson 2: Main Tools of Video Production 
