@@ -31,11 +31,7 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
-
-* teaching point 1
-* teaching point 2
-* teaching point 3
+This lesson will give a brief overview of What is Vide Production and Processors.
 
 ---
 ## Lesson 2: History of Video Production 
@@ -60,11 +56,8 @@ After Lecture:
 
 ### Lecture/Lab description
 
-Description to lecture content (50 - 100 words)
+This lesson will touch on the Histroy of Video Production and Processors .
 
-* teaching point 1
-* teaching point 2
-* teaching point 3
 
 ---
 
