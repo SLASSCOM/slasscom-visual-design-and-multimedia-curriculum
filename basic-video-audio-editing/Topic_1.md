@@ -31,7 +31,7 @@ After Lecture:
 
 ### Lecture/Lab description
 
-This lesson will give a brief overview of What is Vide Production and Processors.
+This lesson will give a basic knowledge of Production and Processors.
 
 ---
 ## Lesson 2: History of Video Production 
