@@ -1,4 +1,4 @@
-[Home](../README.md) > [Basic Video Audio Editing](./index.md) > Video Editing Process and tools
+[Home](../index.md) > [Basic Video Audio Editing](./index.md)  > Video Editing Process and tools
 
 # Topic: 1.	Video Editing Process and tools
 
