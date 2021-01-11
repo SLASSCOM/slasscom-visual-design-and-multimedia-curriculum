@@ -1,4 +1,4 @@
-[Home](../index.md) > [Basic 3D Design](./basic-3D-design-module.md > Lighting and Rendering
+[Home](../index.md) > [Basic 3D Design](./basic-3D-design-module.md) > Lighting and Rendering
 
 # Topic: Lighting and Rendering
 

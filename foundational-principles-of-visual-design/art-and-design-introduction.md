@@ -1,4 +1,4 @@
-[Home](../index.md) > [Graphic Design](./graphic-design-module.md) > Art and Design Introduction
+[Home](../index.md) > [Foundational Principles of Visual Design](./foundational-principles-of-visual-design-module.md) > Art and Design Introduction
 
 # Topic: Art and Design Introduction
 
