@@ -1,4 +1,4 @@
-[Home](../) > Video Editing and Audio Editing
+[Home](../index.md) > Video Editing and Audio Editing
 
 # Module: Video Editing and Audio Editing
 
