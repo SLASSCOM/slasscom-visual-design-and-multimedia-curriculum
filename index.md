@@ -19,7 +19,7 @@ This model curriculum is to be used as guidance by educational institutes in tea
 | ---------------------------------------- | ------------------------------------------------------------ |
 | Foundational Principles of Visual Design | [View Topics](./foundational-principles-of-visual-design/foundational-principles-of-visual-design-module.md)                          |
 | Graphic Design                           | [View Topics](./graphic-design/graphic-design-module.md)     |
-| Basic Video/Audio Editing                | [View Topics](./basic-video-audio-editing/README.md)                          |
+| Basic Video/Audio Editing                | [View Topics](./basic-video-audio-editing/index.md)                          |
 | Basic 3D Design                          | [View Topics](./basic-3D-design/basic-3D-design-module.md)   |
 | User Experience Design                   | [View Topics](./user-experience-design/user-experience-design-module.md) |
 
